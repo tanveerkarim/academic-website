@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Selection Function and Imaging Systematics on Covariance Matrices"
-summary: "An investigation of imaging systematics affecting precision of cosmological parameter inference"
-authors: [Tanveer Karim]
+title: "Cross Corr"
+summary: ""
+authors: []
 tags: []
 categories: []
-date: 2021-05-21T19:46:57-04:00
+date: 2021-05-21T19:52:41-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,4 +39,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-aaa
